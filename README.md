@@ -1,4 +1,4 @@
-# Api_Clima_Finall
+# Api_Clima
 Projeto de Consumo de API
 
 Este é um projeto simples de consumo de API desenvolvido para o trabalho de programação web da faculdade. O objetivo deste projeto é demonstrar o processo de interação com uma API pública e exibir os dados obtidos em um site.
