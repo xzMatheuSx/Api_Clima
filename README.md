@@ -15,7 +15,7 @@ Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em sua 
 Abra o terminal e navegue até a pasta raiz do projeto.
 Execute o seguinte comando para instalar as dependências necessárias:
 
-	npm install.
+	npm install
 
 Como usar o projeto
 
